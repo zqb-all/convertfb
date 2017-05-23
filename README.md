@@ -9,7 +9,7 @@ For help with command line options, use:
 convertfb -h
 ```
 
-###Installation
+### Installation
 
 If you have the python 'python-imaging' module, you can just place convertfb
 
@@ -23,9 +23,9 @@ sudo cp convertfb /usr/local/bin
 
 convertfb
 ```
-###Example
+### Example
 
-####Ubuntu
+#### Ubuntu
 
 An example in ubuntu , the screen is 1376x768 and
 
