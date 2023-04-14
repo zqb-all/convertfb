@@ -11,7 +11,7 @@ convertfb -h
 
 ### Installation
 
-If you have the python 'python-imaging' module, you can just place convertfb
+If you have the python 'python-imaging' module, you can just place convertfb, please note the 'python-imaging' module now called 'Pillow'
 
 in a directory on your path, or add the directory containing convertfb
 
